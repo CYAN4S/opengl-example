@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3c4ebbff-1273-45c0-b22a-0daaf276a976": {
+      "ProjectGuid": "3c4ebbff-1273-45c0-b22a-0daaf276a976",
+      "DisplayName": "GLAD",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "1a356d66-c1db-4948-ad71-8a9c62ff5214": {
+      "ProjectGuid": "1a356d66-c1db-4948-ad71-8a9c62ff5214",
+      "DisplayName": "01_rectangle",
+      "ColorIndex": 1
+    },
+    "eac3ea43-108a-4bba-8679-df2b0a9d8239": {
+      "ProjectGuid": "eac3ea43-108a-4bba-8679-df2b0a9d8239",
+      "DisplayName": "02_triangle_interpolation",
+      "ColorIndex": 2
+    },
+    "433ec4bd-a819-47b8-a43f-4dbef555c0a9": {
+      "ProjectGuid": "433ec4bd-a819-47b8-a43f-4dbef555c0a9",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
